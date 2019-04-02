@@ -1,4 +1,3 @@
-# Load RSpec and Capybara
 require 'rspec'
 require 'capybara/rspec'
 require 'capybara/dsl'
